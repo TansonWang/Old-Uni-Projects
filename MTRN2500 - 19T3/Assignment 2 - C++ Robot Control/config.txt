@@ -1,0 +1,11 @@
+zid : yeet
+refresh_rate: 10
+max_linear_speed : 10  
+max_angular_speed: 45
+max_linear_acceleration : 5
+max_angular_acceleration : 10
+speed_plus_axis : 5
+speed_minus_axis: 2
+steering_axis : 3
+steering_deadzone : 0.1
+speed_deadzone : 0.5
