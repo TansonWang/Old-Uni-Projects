@@ -1,0 +1,103 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\Debug\_Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>_Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>_Project.map</FILE>
+  <FILE>_Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <array><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>84</LINE></array>
+  <times><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>85</LINE></times>
+  <RESET><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>105</LINE></RESET>
+  <Button_pushed><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>98</LINE></Button_pushed>
+  <lcd_command><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1216</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1246</LINE></lcd_wait>
+  <main><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>231</LINE></main>
+  <maxStations><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>649</LINE></maxStations>
+  <readInStations><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>573</LINE></readInStations>
+  <timeBetweenStations><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>802</LINE></timeBetweenStations>
+  <stopTimeRequest><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>875</LINE></stopTimeRequest>
+  <nextSection><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>697</LINE></nextSection>
+  <loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>237</LINE></loop>
+  <readPrint><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1158</LINE></readPrint>
+  <Keypad><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>244</LINE></Keypad>
+  <colloop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>248</LINE></colloop>
+  <delay><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>252</LINE></delay>
+  <nextcol><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>273</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>262</LINE></rowloop>
+  <skipconv><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>268</LINE></skipconv>
+  <convertNumbers><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>288</LINE></convertNumbers>
+  <notNumberReturn><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>319</LINE></notNumberReturn>
+  <symbols><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>323</LINE></symbols>
+  <convertNumbers_cont><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>305</LINE></convertNumbers_cont>
+  <convertNumbers_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>353</LINE></convertNumbers_end>
+  <star><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>331</LINE></star>
+  <zero><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>342</LINE></zero>
+  <convertNumbers_error><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>360</LINE></convertNumbers_error>
+  <delay_30ms><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1275</LINE></delay_30ms>
+  <lcd_data><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1229</LINE></lcd_data>
+  <store_position_selection_relay><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>379</LINE></store_position_selection_relay>
+  <store_position_selection><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>505</LINE></store_position_selection>
+  <character_convert><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>386</LINE></character_convert>
+  <zero_or_hash><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>453</LINE></zero_or_hash>
+  <characterConvert_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>479</LINE></characterConvert_end>
+  <normalPositionAddition><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>439</LINE></normalPositionAddition>
+  <last_position_selection><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>511</LINE></last_position_selection>
+  <not_max_chars><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>530</LINE></not_max_chars>
+  <white_space><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>463</LINE></white_space>
+  <end_of_input><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>485</LINE></end_of_input>
+  <normal_space><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>471</LINE></normal_space>
+  <delay_10ms><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1285</LINE></delay_10ms>
+  <end_of_input_exit><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>500</LINE></end_of_input_exit>
+  <memory_padding><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>495</LINE></memory_padding>
+  <readInStations_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>570</LINE></readInStations_end>
+  <readInStations_start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>580</LINE></readInStations_start>
+  <readInStations_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>588</LINE></readInStations_loop>
+  <readInStations_error><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>603</LINE></readInStations_error>
+  <delay_100ms><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1268</LINE></delay_100ms>
+  <readInStations_error_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>606</LINE></readInStations_error_loop>
+  <maxStations_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>647</LINE></maxStations_end>
+  <maxStations_start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>651</LINE></maxStations_start>
+  <maxStations_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>658</LINE></maxStations_loop>
+  <maxStations_error_message><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>670</LINE></maxStations_error_message>
+  <maxStations_error_message2><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>681</LINE></maxStations_error_message2>
+  <nextSection_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>737</LINE></nextSection_loop>
+  <timeBetweenStations_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>796</LINE></timeBetweenStations_end>
+  <timeBetweenStations_start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>807</LINE></timeBetweenStations_start>
+  <timeBetweenStations_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>813</LINE></timeBetweenStations_loop>
+  <timeBetweenStations_error_message><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>824</LINE></timeBetweenStations_error_message>
+  <stopTimeRequest_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>873</LINE></stopTimeRequest_end>
+  <stopTimeRequest_start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>877</LINE></stopTimeRequest_start>
+  <stopTimeRequest_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>883</LINE></stopTimeRequest_loop>
+  <stopTimeRequest_error_message><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>895</LINE></stopTimeRequest_error_message>
+  <stopTimeRequest_error_message2><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>908</LINE></stopTimeRequest_error_message2>
+  <hashInterrupt><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>977</LINE></hashInterrupt>
+  <interrupt_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1016</LINE></interrupt_loop>
+  <hashInterrupt_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1038</LINE></hashInterrupt_end>
+  <block_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1064</LINE></block_loop>
+  <readPrint_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1171</LINE></readPrint_loop>
+  <readPrint_normalLoop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1183</LINE></readPrint_normalLoop>
+  <readPrint_cont_relay><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1189</LINE></readPrint_cont_relay>
+  <readPrint_stopping><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1190</LINE></readPrint_stopping>
+  <readPrint_cont><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1193</LINE></readPrint_cont>
+  <lcd_wait_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1252</LINE></lcd_wait_loop>
+  <delay_loop_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1278</LINE></delay_loop_loop>
+  <delay_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\_Project\_Project\main.asm</FILE><LINE>1292</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
