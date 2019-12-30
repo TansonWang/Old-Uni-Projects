@@ -1,0 +1,15 @@
+zid : z5211217
+refresh_rate: 10
+max_linear_speed : 3       
+max_angular_speed: 45
+max_linear_acceleration : 0.5
+max_angular_acceleration : 10
+speed_plus_axis : 1
+speed_minus_axis: 2
+steering_axis : 3
+steering_deadzone : 0.1
+speed_deadzone : 0.5
+LT: 4
+RT: 5
+dropButton: 0
+clearButton: 1
