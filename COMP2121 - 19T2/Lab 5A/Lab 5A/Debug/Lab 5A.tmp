@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\Debug\Lab 5A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 5A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 5A.map</FILE>
+  <FILE>Lab 5A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TempCounter><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>29</LINE></TempCounter>
+  <RESET><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>128</LINE></RESET>
+  <Timer0OVF><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>174</LINE></Timer0OVF>
+  <EXT_INT2><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>243</LINE></EXT_INT2>
+  <lcd_command><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>284</LINE></lcd_command>
+  <lcd_wait><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>314</LINE></lcd_wait>
+  <sleep_5ms><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>352</LINE></sleep_5ms>
+  <sleep_1ms><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>340</LINE></sleep_1ms>
+  <main><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>220</LINE></main>
+  <mul10><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>167</LINE></mul10>
+  <NotSecond><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>205</LINE></NotSecond>
+  <print_answer><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>231</LINE></print_answer>
+  <fin_Timer0OVF><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>210</LINE></fin_Timer0OVF>
+  <end><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>277</LINE></end>
+  <lcd_data><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>297</LINE></lcd_data>
+  <no_revolution><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>256</LINE></no_revolution>
+  <lcd_wait_loop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>320</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 5A\Lab 5A\main.asm</FILE><LINE>345</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>
