@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\Debug\Lab 2C.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 2C.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 2C.map</FILE>
+  <FILE>Lab 2C.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</FILE><LINE>28</LINE></start>
+  <move><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</FILE><LINE>42</LINE></move>
+  <end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</FILE><LINE>96</LINE></end>
+  <else><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</FILE><LINE>73</LINE></else>
+  <epilogue><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2C\Lab 2C\main.asm</FILE><LINE>63</LINE></epilogue>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\Debug\Lab 4B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 4B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 4B.map</FILE>
+  <FILE>Lab 4B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>66</LINE></RESET>
+  <lcd_command><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>215</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>245</LINE></lcd_wait>
+  <main><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>98</LINE></main>
+  <colloop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>101</LINE></colloop>
+  <delay><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>106</LINE></delay>
+  <nextcol><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>128</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>116</LINE></rowloop>
+  <skipconv><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>123</LINE></skipconv>
+  <convert><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>140</LINE></convert>
+  <letters><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>156</LINE></letters>
+  <symbols><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>164</LINE></symbols>
+  <convert_end><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>179</LINE></convert_end>
+  <star><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>172</LINE></star>
+  <zero><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>176</LINE></zero>
+  <lcd_data><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>228</LINE></lcd_data>
+  <line2><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>194</LINE></line2>
+  <line1><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>189</LINE></line1>
+  <convert_cont><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>197</LINE></convert_cont>
+  <delay_100ms><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>267</LINE></delay_100ms>
+  <lcd_wait_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>251</LINE></lcd_wait_loop>
+  <delay_loop_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>270</LINE></delay_loop_loop>
+  <delay_10ms><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>277</LINE></delay_10ms>
+  <delay_loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 4B\Lab 4B\main.asm</FILE><LINE>285</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

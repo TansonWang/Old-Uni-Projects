@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\Debug\Lab 3D.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 3D.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 3D.map</FILE>
+  <FILE>Lab 3D.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Sec_Count><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>26</LINE></Sec_Count>
+  <Temp_Count><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>27</LINE></Temp_Count>
+  <RESET><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>42</LINE></RESET>
+  <DEFAULT><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>39</LINE></DEFAULT>
+  <TimerOVF0><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>51</LINE></TimerOVF0>
+  <main><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>98</LINE></main>
+  <Notsecond><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>83</LINE></Notsecond>
+  <minuteadd><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>74</LINE></minuteadd>
+  <yump><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>78</LINE></yump>
+  <epilogue><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>87</LINE></epilogue>
+  <loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 3D\Lab 3D\main.asm</FILE><LINE>112</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

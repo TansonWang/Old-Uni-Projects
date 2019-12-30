@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\Debug\Lab 2B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 2B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 2B.map</FILE>
+  <FILE>Lab 2B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <A_array><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</FILE><LINE>92</LINE></A_array>
+  <start><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</FILE><LINE>113</LINE></start>
+  <zerocase><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</FILE><LINE>123</LINE></zerocase>
+  <loop><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</FILE><LINE>128</LINE></loop>
+  <done><FILE>C:\Users\Imper\Documents\Atmel Studio\7.0\Lab 2B\Lab 2B\main.asm</FILE><LINE>137</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

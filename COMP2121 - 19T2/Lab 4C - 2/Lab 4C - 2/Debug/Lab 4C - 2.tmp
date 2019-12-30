@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\Debug\Lab 4C - 2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab 4C - 2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab 4C - 2.map</FILE>
+  <FILE>Lab 4C - 2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>325</LINE></RESET>
+  <lcd_command><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>511</LINE></lcd_command>
+  <lcd_wait><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>541</LINE></lcd_wait>
+  <delay_30ms><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>563</LINE></delay_30ms>
+  <main><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>364</LINE></main>
+  <colloop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>367</LINE></colloop>
+  <delay><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>372</LINE></delay>
+  <nextcol><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>394</LINE></nextcol>
+  <rowloop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>382</LINE></rowloop>
+  <skipconv><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>389</LINE></skipconv>
+  <convert><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>406</LINE></convert>
+  <letters><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>433</LINE></letters>
+  <symbols_relay><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>430</LINE></symbols_relay>
+  <convert_end><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>481</LINE></convert_end>
+  <symbols><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>463</LINE></symbols>
+  <Letter_A><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>449</LINE></Letter_A>
+  <Letter_B><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>454</LINE></Letter_B>
+  <Letter_C><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>459</LINE></Letter_C>
+  <lcd_data><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>524</LINE></lcd_data>
+  <Lcd_limit_check><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>488</LINE></Lcd_limit_check>
+  <zero><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>476</LINE></zero>
+  <star><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>472</LINE></star>
+  <lcd_limit_check_end><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>493</LINE></lcd_limit_check_end>
+  <lcd_wait_loop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>547</LINE></lcd_wait_loop>
+  <delay_loop_loop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>566</LINE></delay_loop_loop>
+  <delay_10ms><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>573</LINE></delay_10ms>
+  <delay_loop><FILE>c:\users\imper\Documents\Atmel Studio\7.0\Lab 4C - 2\Lab 4C - 2\main.asm</FILE><LINE>581</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
