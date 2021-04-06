@@ -1,0 +1,10 @@
+1. Assuming all stub functions work as intended
+2. Assuming an empty message cannot be sent
+3. Assuming channel_invite workes pretty much the same as channel_join
+4. Assuming attempting to message a channel that you're not invited to is 
+   the same as trying to message a channel that you've been revemoed from
+5. Assuming the first person to be registered is given owner permissions, and
+   all subsaquent registrations are given member permissions.
+6. Assuming editing a message to nothing is the same as removing that message 
+7. Assuming owner can message channels created my members without being invited? (tests uninplimented)
+8. Assuming Slackr owner and channel owner have the same permissions in a channel 
